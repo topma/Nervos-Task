@@ -20,6 +20,7 @@
 <img src="https://github.com/topma/Nervos-Task/blob/main/Task-4/screenshot_of_the_console_output_deposit_to_Layer_2_account-cli-2.png?sanitize=true&raw=true" />
 
 5. ==> The SUDT ID from the console output after executing the deposit script (in text format).
-'''
+
+```
 Your sudt id: 2299
-'''
+```
